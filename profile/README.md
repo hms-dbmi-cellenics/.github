@@ -1,6 +1,6 @@
 # Cellenics
 
-[Cellenics](https://scp.biomage.net/) is an open-source platform developed in part by Harvard's Department of Biomedical Informatics. Cellenics consists of multiple repositories - the codebase of the platform itself, as well as repositories that define the AWS infrastructure and provide various utilities. Want to contribute to our open source community efforts? Contact us at alex_pickering@hms.harvard.edu.
+[Cellenics](https://scp.biomage.net/) is an open-source platform developed in collaboration between [Biomage LTD](https://www.biomage.net/) and Harvard's Department of Biomedical Informatics. Cellenics consists of multiple repositories - the codebase of the platform itself, as well as repositories that define the AWS infrastructure and provide various utilities. Want to contribute to our open source community efforts? Contact us at alex_pickering@hms.harvard.edu.
 
 ## Repositories
 
