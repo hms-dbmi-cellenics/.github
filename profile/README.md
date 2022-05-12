@@ -1,6 +1,10 @@
 # Cellenics
 
-[Cellenics](https://scp.biomage.net/) is an open-source platform developed in collaboration between [Biomage LTD](https://www.biomage.net/) and Harvard's Department of Biomedical Informatics. Cellenics consists of multiple repositories - the codebase of the platform itself, as well as repositories that define the AWS infrastructure and provide various utilities. Want to contribute to our open source community efforts? Contact us at alex_pickering@hms.harvard.edu.
+[Cellenics](https://scp.biomage.net/) is an open-source platform aimed at empowering research biologists to analyze their own single-cell RNA sequencing (scRNA-seq) datasets. In collaboration with the [HMS Single Cell Core](https://singlecellcore.hms.harvard.edu/), the [Harvard Chan Bioinformatics Core](https://bioinformatics.sph.harvard.edu/), input from the [Biopolymers Facility](https://genome.med.harvard.edu/) and the [Center for Computational Biomedicine](https://genome.med.harvard.edu/), and a fee-for-service agreement with [Biomage LTD](https://www.biomage.net/), we developed a user-facing application for project management as well as data processing, quality control, and visualization (Fig. 1). These modules enable in-depth data exploration through differential expression and pathway analyses as well as the generation of fully customizable plots for publication. 
+
+Cellenics consists of multiple repositories - the codebase of the platform itself, as well as repositories that define the AWS infrastructure and provide various utilities. 
+
+**Want to contribute to our open source community efforts?** [Contact us!](mailto:alex_pickering@hms.harvard.edu)
 
 ## Repositories
 
@@ -17,3 +21,7 @@
 - **[iac](https://github.com/hms-dbmi-cellenics/iac)** - AWS Infrastructure as Code and GitOps repository.
 
 ----
+
+![Cellenics Platform](https://user-images.githubusercontent.com/15719520/168169385-35549ec6-a00e-4b27-b591-68b7871da127.png)
+
+**Figure 1: Cellenics Platform.** Cellenics is an open-source, cloud-based platform developed in the [Department of Biomedical Informatics](https://dbmi.hms.harvard.edu/). Brief tutorials are available on the [website of our collaborators](https://www.biomage.net/get-started), who host a community instance of Cellenics. A. Current Cellenics Modules developed in Phases 1 & 2. B. Data Processing module. C. Data Exploration module. D. Differential expression tool within the Data Exploration module. E. Plots and Tables module.
