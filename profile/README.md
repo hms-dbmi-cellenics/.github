@@ -8,7 +8,7 @@
 ### Bioinformatics
 
 
-- **[pipeline](https://github.com/hms-dbmi-cellenics/pipeline)** - Bioinformatics repository for Data Processing module.
+- **[pipeline](https://github.com/hms-dbmi-cellenics/pipeline)** - Bioinformatics repository for the Data Processing module.
 - **[worker](https://github.com/hms-dbmi-cellenics/worker)** - Bioinformatics repository for running analyses on processed datasets.
 
 ### Front-end and Infrastructure
