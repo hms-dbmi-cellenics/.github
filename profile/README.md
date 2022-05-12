@@ -22,6 +22,7 @@ Cellenics consists of multiple repositories - the codebase of the platform itsel
 
 ----
 
-![Cellenics Platform](https://user-images.githubusercontent.com/15719520/168169385-35549ec6-a00e-4b27-b591-68b7871da127.png)
+![Cellenics Platform](https://user-images.githubusercontent.com/15719520/168172809-6dc19248-3e4d-4814-911c-92f12dded8f2.png)
+
 
 **Figure 1: Cellenics Platform.** Cellenics is an open-source, cloud-based platform developed in the [Department of Biomedical Informatics](https://dbmi.hms.harvard.edu/). Brief tutorials are available on the [website of our collaborators](https://www.biomage.net/get-started), who host a community instance of Cellenics. A. Current Cellenics Modules developed in Phases 1 & 2. B. Data Processing module. C. Data Exploration module. D. Differential expression tool within the Data Exploration module. E. Plots and Tables module.
