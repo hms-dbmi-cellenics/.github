@@ -4,7 +4,7 @@
 
 Cellenics consists of multiple repositories - the codebase of the platform itself, as well as repositories that define the AWS infrastructure and provide various utilities. 
 
-**Want to contribute to our open source community efforts?** [Contact us!](mailto:alex_pickering@hms.harvard.edu)
+**Want to contribute to our open source community efforts?** [Open an issue](https://github.com/hms-dbmi-cellenics/issues/issues) or [contact us!](mailto:alex_pickering@hms.harvard.edu)
 
 ## Repositories
 
