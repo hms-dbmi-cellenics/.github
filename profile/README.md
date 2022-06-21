@@ -20,9 +20,20 @@ Cellenics consists of multiple repositories - the codebase of the platform itsel
 - **[api](https://github.com/hms-dbmi-cellenics/api)** - A nodejs service that sits in between the UI and the Cellenics backends (pipeline, worker).
 - **[iac](https://github.com/hms-dbmi-cellenics/iac)** - AWS Infrastructure as Code and GitOps repository.
 
-----
+# 
 
 ![Cellenics Platform](https://user-images.githubusercontent.com/15719520/168172809-6dc19248-3e4d-4814-911c-92f12dded8f2.png)
 
 
-**Figure 1: Cellenics Platform.** Cellenics is an open-source, cloud-based platform developed in the [Department of Biomedical Informatics](https://dbmi.hms.harvard.edu/). A [recorded workshop](https://harvard.zoom.us/rec/share/6RMnOKMu25_UL_HrmJ8MNLekwRMPviviaCeo6qytKYFzRGApwnyvleTUOCGr_3jU.OGQCZ2mfgJZnQReC) and brief [tutorials](https://www.biomage.net/get-started) are available. A. Current Cellenics Modules developed in Phases 1 & 2. B. Data Processing module. C. Data Exploration module. D. Differential expression tool within the Data Exploration module. E. Plots and Tables module.
+**Figure 1: Cellenics Platform.** Cellenics is an open-source, cloud-based platform developed in the [Department of Biomedical Informatics](https://dbmi.hms.harvard.edu/). A. Current Cellenics Modules developed in Phases 1 & 2. B. Data Processing module. C. Data Exploration module. D. Differential expression tool within the Data Exploration module. E. Plots and Tables module.
+
+## Getting Help
+
+**Need help with your analysis?** Here are some brief tutorials:
+- [Full Demo](https://www.youtube.com/watch?v=LXIhiIyxHME)
+- [Data Upload and Management](https://www.youtube.com/watch?v=aTkBEK3L-KI)
+- [Data Processing](https://www.youtube.com/watch?v=0pwXUMMGnlA)
+- [Data Exploration](https://www.youtube.com/watch?v=JKd_nhroAUc)
+- [Plots and Tables](https://www.youtube.com/watch?v=0pwXUMMGnlA)
+
+There is also a more in-depth [recorded workshop](https://harvard.zoom.us/rec/share/6RMnOKMu25_UL_HrmJ8MNLekwRMPviviaCeo6qytKYFzRGApwnyvleTUOCGr_3jU.OGQCZ2mfgJZnQReC) (~2 hours).
