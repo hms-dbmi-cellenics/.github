@@ -34,6 +34,6 @@ Cellenics consists of multiple repositories - the codebase of the platform itsel
 - [Data Upload and Management](https://www.youtube.com/watch?v=aTkBEK3L-KI)
 - [Data Processing](https://www.youtube.com/watch?v=0pwXUMMGnlA)
 - [Data Exploration](https://www.youtube.com/watch?v=JKd_nhroAUc)
-- [Plots and Tables](https://www.youtube.com/watch?v=0pwXUMMGnlA)
+- [Plots and Tables](https://www.youtube.com/watch?v=SP5rzpBnqCI)
 
 There is also a more in-depth [recorded workshop](https://harvard.zoom.us/rec/share/6RMnOKMu25_UL_HrmJ8MNLekwRMPviviaCeo6qytKYFzRGApwnyvleTUOCGr_3jU.OGQCZ2mfgJZnQReC) (~2 hours).
