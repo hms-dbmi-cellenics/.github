@@ -36,7 +36,7 @@ Cellenics consists of multiple repositories - the codebase of the platform itsel
 - [Data Exploration](https://www.youtube.com/watch?v=JKd_nhroAUc)
 - [Plots and Tables](https://www.youtube.com/watch?v=SP5rzpBnqCI)
 
-There is also a more in-depth [recorded workshop](https://harvard.zoom.us/rec/share/6RMnOKMu25_UL_HrmJ8MNLekwRMPviviaCeo6qytKYFzRGApwnyvleTUOCGr_3jU.OGQCZ2mfgJZnQReC) (~2 hours).
+There is also a more in-depth [recorded workshop](https://www.youtube.com/watch?v=cL2WPeXy19U) (~2 hours).
 
 ## Licensing and Governance
 
